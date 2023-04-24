@@ -14,6 +14,7 @@
 2. Install dependencies using command "npm install"
 3. Run command "npm run start"
 
+P.S: Unit tests are added on the front-end app for the component.
 
 
 ## Note
