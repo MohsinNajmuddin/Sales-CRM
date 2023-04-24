@@ -4,7 +4,7 @@
 ## Backend
 
 1. To run back-end app go to server folder
-2. Run command " npx tsc && node dist/server.js"
+2. Run command "npx tsc && node dist/server.js"
 
 
 ## Front-end
