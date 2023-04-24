@@ -1,0 +1,60 @@
+.record-table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.record-table th {
+    color: #ccc;
+}
+  
+.record-table th,
+.record-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+  
+.record-table th {
+    background-color: #f5f5f5;
+    font-weight: bold;
+    text-align: left;
+}
+  
+.record-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+  
+.record-table tr:hover {
+    background-color: #ddd;
+}
+
+h1 {
+    text-align: center;
+}
+
+.priority-high {
+    color: red;
+    font-weight: bold;
+}
+  
+.priority-medium {
+    color: orange;
+}
+  
+.priority-low {
+    color: green;
+}
+
+.status-closed {
+    color: red;
+    font-weight: bold;
+}
+  
+.status-negotiation {
+    color: orange;
+}
+  
+.status-proposal {
+    color: green;
+}
