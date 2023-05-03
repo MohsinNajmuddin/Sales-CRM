@@ -20,3 +20,9 @@ P.S: Unit tests are added on the front-end app for the component. To run unit te
 ## Note
 
 First run backend then run the frontend app.
+
+
+## Demo Video
+
+
+![momo](https://user-images.githubusercontent.com/111302749/235835892-56c6b88b-0bfb-4949-8f02-e0d1b2e79ae0.gif)
