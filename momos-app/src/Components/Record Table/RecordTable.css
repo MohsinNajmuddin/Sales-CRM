@@ -5,6 +5,21 @@
     font-size: 14px;
 }
 
+.filtering {
+    margin-bottom: 20px;
+  }
+  
+.filtering label {
+    font-weight: bold;
+    margin-right: 10px;
+}
+  
+.filtering input {
+    padding: 6px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+}
+
 .record-table th {
     color: #ccc;
 }
